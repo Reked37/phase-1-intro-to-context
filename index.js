@@ -1,4 +1,3 @@
-let employeeInfo= {}
 // part 1
 function createEmployeeRecord(employeeArray){
     let employeeInfo = {
